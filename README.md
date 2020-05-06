@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TEST1-CAROCASTRO
 
 Practical exercise.
@@ -68,6 +69,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc# Project Title
+=======
+# Project Title
+>>>>>>> 2675d82cd699826784b974a88fb50fcc5c17b3b4
 
 One Paragraph of project description goes here.
 
@@ -117,8 +121,14 @@ It usually has its own file: [CONTRIBUTING.md](https://gist.github.com/PurpleBoo
 
 ## Authors
 
+<<<<<<< HEAD
 * **Caro Castro** - *Initial work* - [IAvH](http://humboldt.org.co/es/)
 
+=======
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+>>>>>>> 2675d82cd699826784b974a88fb50fcc5c17b3b4
 
 ## License
 
@@ -128,4 +138,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Hat tip to anyone whose code was used
 * Inspiration
+<<<<<<< HEAD
 * etc
+=======
+* etc
+>>>>>>> 2675d82cd699826784b974a88fb50fcc5c17b3b4
